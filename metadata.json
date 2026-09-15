@@ -1,0 +1,6 @@
+{
+  "name": "Forza Horizon Customs",
+  "description": "Forza-inspired open world 3D driving game featuring a career progression mode with races against AI rivals, credits economy, reputation ranks, autoshow dealership, realistic car physics, and mod shop customization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
